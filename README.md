@@ -1,5 +1,7 @@
-# Code of Re-implementing the methodology in the paper:
-## Recurrent Neural Networks for Multivariate Time Series with Missing Values
+# Define imputation module based on GRU-D
+## Reference : Code of Re-implementing the methodology in the paper [GRU-D](https://github.com/zhiyongc/GRU-D) 
+
+### GRU-D : Recurrent Neural Networks for Multivariate Time Series with Missing Values
 
 This method can be used for dealing with time series with missing values, especially for time series with non-fixed time intervals.
 
